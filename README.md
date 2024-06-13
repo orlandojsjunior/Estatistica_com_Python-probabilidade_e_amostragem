@@ -1,6 +1,9 @@
-# Curso de Estatística com Python: probabilidade e amostragem
+# [Formação Estatística com Python](https://cursos.alura.com.br/formacao-estatistica-python)
 
- [Principais tópicos do curso de Estatística:](https://cursos.alura.com.br/course/estatistica-probabilidade-e-amostragem)
+## [Probabilidade e Amostragem](https://cursos.alura.com.br/course/estatistica-probabilidade-e-amostragem)
+
+
+### Principais tópicos do curso:
 
 - Distribuiçōes de binomial, poisson e normal
 - Nível e intervalo de confiança
